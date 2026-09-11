@@ -1,0 +1,14 @@
+{
+  "amount": 85000,
+  "hour": 2,
+  "distance_from_home_km": 420,
+  "distance_from_last_transaction_km": 380,
+  "is_foreign": 1,
+  "is_new_device": 1,
+  "failed_logins_24h": 4,
+  "transactions_last_1h": 8,
+  "avg_amount_30d": 2500,
+  "account_age_days": 120,
+  "merchant_risk": 0.85,
+  "velocity_ratio": 5.2
+}
